@@ -1,12 +1,18 @@
-# React + Vite
+# React + Desafio Tecnico #1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Nombre del proyecto: Tipos de Motores (En Motos)
 
-Currently, two official plugins are available:
+Breve descripción: La nota informativa te dara mas conocimiento acerca de la diferencia entre los tipos de motores que hay.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Lenguajes: HTML, CSS, React & JavaScript.
 
-## Expanding the ESLint configuration
+Se pusieron en practica los siguientes conceptos:
+  ✅ Sintaxis JSX,
+  ✅ Creación y anidación de componentes,
+  ✅ Renderizado condicional,
+  ✅ Estilos (CSS o CSS Modules),
+  ✅ Props entre componentes,
+  ✅ Manejo de eventos,
+  ✅ Renderizado de listas,
+  ✅ Uso de imágenes o videos (relevantes al contenido)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
